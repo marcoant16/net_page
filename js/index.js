@@ -76,7 +76,7 @@ function nextImg(){
     console.log(name_input,email_input,number_input)
 
    if(te_name == true && te_mail == true && te_number == true){
-        window.location = 'https://www.youtube.com/watch?v=lm--pCYE-08';
+        window.location = 'https://en.touhouwiki.net/wiki/Touhou_Wiki';
     }else{
 
         if(te_name == false){
